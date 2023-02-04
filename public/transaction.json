@@ -1,0 +1,32 @@
+[
+  {
+    "customer": "user1",
+    "amount": 120,
+    "timestamp": "2023-01-01"
+  },
+  {
+    "customer": "user2",
+    "amount": 100,
+    "timestamp": "2023-02-01"
+  },
+  {
+    "customer": "user3",
+    "amount": 160,
+    "timestamp": "2022-11-01"
+  },
+  {
+    "customer": "user4",
+    "amount": 60,
+    "timestamp": "2022-12-01"
+  },
+  {
+    "customer": "user5",
+    "amount": 20,
+    "timestamp": "2023-01-05"
+  },
+  {
+    "customer": "user2",
+    "amount": 120,
+    "timestamp": "2023-02-03"
+  }
+]
